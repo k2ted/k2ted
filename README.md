@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👀 Trying to learn how to use GitHub for controlling my many other projects.
+
 <!--
 **k2ted/k2ted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
